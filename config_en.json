@@ -1536,7 +1536,7 @@
 "showCartButtonWithQuantity":false
 },
 {
-"name":"Newly Added Items",
+"name":"Picked By Your Choices",
 "layout":"quiltedGridTile",
 "isSnapping":false,
 "image":"",
@@ -1557,6 +1557,7 @@
 },
 "cardDesign":"card",
 "order":"desc",
+"orderby":"popularity",
 "backgroundRadius":10.0,
 "showCountDown":false,
 "onSale":false,
@@ -1585,7 +1586,6 @@
 "hideEmptyProductLayout":false,
 "productListItemHeight":118.8,
 "enableAutoSliding":false,
-"orderby":"popularity",
 "preview_data":false
 }
 ],
@@ -2079,7 +2079,7 @@
 "layout":"menuCustom",
 "isSnapping":false,
 "image":"",
-"borderRadius":28.000000000000004,
+"borderRadius":7.000000000000001,
 "hMargin":6.0,
 "useCircularRadius":true,
 "useSort":false,
