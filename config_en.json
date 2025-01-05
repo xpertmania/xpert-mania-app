@@ -2572,7 +2572,7 @@
 "backgroundColor":"FF9C27B0",
 "enable":true,
 "snap":true,
-"pinned":true,
+"pinned":false,
 "floating":true,
 "elevation":0,
 "alwaysShowAppBar":false,
