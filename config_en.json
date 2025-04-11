@@ -352,7 +352,7 @@
 {
 "size":1.5,
 "type":"icon",
-"wrap":false,
+"wrap":true,
 "items":[
 {
 "tag":null,
